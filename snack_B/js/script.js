@@ -1,3 +1,10 @@
+/**
+ *
+ * Crea una funzione che dato un array, calcoli la somma dei suoi elementi.
+ *
+ */
+
+
 const array = ['ciao', 2, true, 55, 'giovanni', 23];
 
 function sumArray (array) {
