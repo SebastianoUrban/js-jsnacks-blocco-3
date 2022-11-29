@@ -17,6 +17,8 @@ for (let i  = 0; i < randomNum2; i++){
 }
 console.log('Before array2 --> ' + array2.length)
 
+
+
 while(array1.length != array2.length){
     if(array1.length > array2.length){
         array2.push(0);
